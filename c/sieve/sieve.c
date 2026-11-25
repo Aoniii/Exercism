@@ -1,7 +1,3 @@
-#include <stdbool.h>
-#include <stdint.h>
-#include <stdio.h>
-#include <stdlib.h>
 #include "sieve.h"
 
 uint32_t sieve(uint32_t limit, uint32_t *primes, size_t max_primes) {
